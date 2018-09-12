@@ -84,3 +84,9 @@ B5
 add
 Animation BunnyHop Nofall Autowalk
 ESP color change
+
+[Developer]
+MeiHX
+
+[Tester]
+Garisu
